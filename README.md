@@ -12,7 +12,7 @@ Este repositório contém pequenos projetos relacionados ao Deep Learning. Os as
 
 ```bash
 # clonar o repositório
-git clone xxx
+git clone https://github.com/talesnobre/neural_networks_book.py.git
 
 # navegar até o diretório principal
 cd neural_networks_book.py
